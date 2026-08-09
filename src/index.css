@@ -1,0 +1,10 @@
+:root {
+  --navy-blue: #1a3a52;
+  --navy-gradient: linear-gradient(135deg, #1a3a52 0%, #2d5a7b 100%);
+  --button-color: #004a96;
+  --light-beige: #f5f3f0;
+}
+
+body {
+  background-color: var(--light-beige);
+}
